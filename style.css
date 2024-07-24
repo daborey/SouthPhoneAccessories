@@ -17,5 +17,5 @@ img {
     padding: 15px;
     width: 400px;
     height: 510px;
-    background-color: yellow;
+    border: solid 2px black;
 }
